@@ -1,15 +1,21 @@
-var sampleData = { count: 12, motta: 'I hate hello world' };
+var sampleData = {
+    "fullname": "burak selim şenyurt",
+    "id": 1,
+    "age": 43,
+    "gender": "male"
+}
 
 var express = require('express');
 var app = express();
+var path = require('path');
 
 app.get('/', function (req, res) {
-    res.sendFile(__dirname, '/index.html', function (err) {
+    res.sendFile(path.join(__dirname + '/index.html'), function (err) {
         res.status(500).send(err);
     })
 });
 
-app.get('data', function (req, res) {
+app.get('/data', function (req, res) {
     res.json(sampleData);
 });
 
