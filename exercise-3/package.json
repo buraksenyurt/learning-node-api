@@ -1,0 +1,40 @@
+{
+  "name": "asimpleform",
+  "version": "1.0.0",
+  "description": "a simple form for crud",
+  "main": "server.js",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "morgan": "^1.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buraksenyurt/learning-node-api.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript",
+    "rest",
+    "web",
+    "api",
+    "http",
+    "bootstrap",
+    "jquery",
+    "morgan"
+  ],
+  "author": "buraks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buraksenyurt/learning-node-api/issues"
+  },
+  "homepage": "https://github.com/buraksenyurt/learning-node-api#readme"
+}
