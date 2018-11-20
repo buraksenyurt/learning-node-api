@@ -5,7 +5,8 @@ Developing API with Node.js (Pluralsight Tutorial)
 - Exercise 2 - A few more http methods.
 - Exercise 3 - A simple bootstrap form and sample create,get actions.
 - Exercise 4 - Using SQLite for exercise 3 (Planned)
-- Exercise 5 - Understanding Routers (Planned)
-- Exercise 6 - Testing (Planned)
-- Exercise 7 - Using JWT for Authentication (Planned)
-- Exervise 8 - 
+- Exersice 5 - Custom Middlewares (Planned)
+- Exercise 6 - Understanding Routers (Planned)
+- Exercise 7 - Testing (Planned)
+- Exercise 8 - Using JWT for Authentication (Planned)
+- Exervise 9 - 
