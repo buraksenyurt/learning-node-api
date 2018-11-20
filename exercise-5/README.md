@@ -1,4 +1,4 @@
-#Understanding and writing middleware functions/modules
+# Understanding and writing middleware functions/modules
 
 This demonstration required following modules...
 
@@ -6,7 +6,7 @@ This demonstration required following modules...
 npm i --save-dev express
 ```
 
-###Test for controller.js middleware
+### Test for controller.js middleware
 
 Valid content-type
 
@@ -16,7 +16,7 @@ Not valid content-type
 
 ![screenshot_2](test_2.png)
 
-###Test for bodySizeController
+### Test for bodySizeController
 
 Valid size
 
