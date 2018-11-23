@@ -1,0 +1,38 @@
+{
+  "name": "learning-testing",
+  "version": "1.0.0",
+  "description": "testing with mocha and chai",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha product-test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buraksenyurt/learning-node-api.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript",
+    "npm",
+    "mocha",
+    "test",
+    "unit",
+    "test"
+  ],
+  "author": "burak selim şenyurt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buraksenyurt/learning-node-api/issues"
+  },
+  "homepage": "https://github.com/buraksenyurt/learning-node-api#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "mocha": "^5.2.0",
+    "morgan": "^1.9.1",
+    "supertest": "^3.3.0"
+  }
+}
