@@ -3,6 +3,7 @@ var app = express();
 var bodyParser = require('body-parser');
 var path = require('path');
 var _ = require('lodash');
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 var players = [];

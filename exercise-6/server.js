@@ -7,6 +7,7 @@ var productRouter = require('./routers/product');
 var categoryRouter = require('./routers/category');
 
 app.use(morgan('dev'));
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use('/products', productRouter);
 app.use('/categories', categoryRouter);

@@ -1,0 +1,36 @@
+{
+  "name": "using-jwt",
+  "version": "1.0.0",
+  "description": "using jwt tokens",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buraksenyurt/learning-node-api.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "javascript",
+    "jwt",
+    "security",
+    "authentication",
+    "authorization",
+    "tutorial"
+  ],
+  "author": "burak selim şenyurt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buraksenyurt/learning-node-api/issues"
+  },
+  "homepage": "https://github.com/buraksenyurt/learning-node-api#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "morgan": "^1.9.1"
+  }
+}
