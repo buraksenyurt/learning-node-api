@@ -1,0 +1,39 @@
+{
+  "name": "custom-logger",
+  "version": "1.0.0",
+  "description": "colorized console logger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buraksenyurt/learning-node-api.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript",
+    "logging",
+    "npm",
+    "tutorial",
+    "node",
+    "express",
+    "rest",
+    "api",
+    "service"
+  ],
+  "author": "buraks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buraksenyurt/learning-node-api/issues"
+  },
+  "homepage": "https://github.com/buraksenyurt/learning-node-api#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "colors": "^1.3.2",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "morgan": "^1.9.1"
+  }
+}
