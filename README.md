@@ -9,4 +9,4 @@ Developing API with Node.js (Pluralsight Tutorial)
 - Exercise 6 - Understanding Routers
 - Exercise 7 - Testing
 - Exercise 8 - Using JWT for Authentication
-- Exervise 9 - Logging with Morgan (Planned)
+- Exervise 9 - Colored Logging
