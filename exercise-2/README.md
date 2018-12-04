@@ -1,7 +1,6 @@
-# learning-node-api
-Developing API with Node.js (Pluralsight Tutorial)
+# A few REST Method (Get and Post)
 
-- Exercise 2 - A few more http methods
+In this exercise we are using a few Http Methods something like that Post and Get.
 
 ## Sample Request
 
