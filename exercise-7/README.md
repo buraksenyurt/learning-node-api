@@ -1,4 +1,4 @@
-# Testing with Chai and Mocha Frameworks
+# Testing with Mocha Frameworks
 
 Required Installs
 
