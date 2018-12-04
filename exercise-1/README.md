@@ -1,6 +1,6 @@
-# Birinci Alıştırma
+# Hello World Application
 
-Bu alıştırma için gerekli npm paketlerini şöyle kurabiliriz.
+Required packages for this demo.
 
 ```
 npm i --save-dev body-parser express lodash morgan
